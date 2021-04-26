@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+form{
+    height: 80vh;
+    width: 40vh;
+    background-color: blueviolet;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    display: block;
+    align-items: center;
+    margin-top: 10vh;
+    margin-left: 90vh;
+    padding-top: 40px;
+    position: relative;
+}
+.conten{
+    height: 15%;
+    margin-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#submet{
+    height: 50px;
+    width: 90px;
+}
